@@ -81,3 +81,9 @@ Passionate about building scalable web applications, backend systems, and intera
 *"Writing code today so future-me can debug it tomorrow."* 😄
 
 </div>
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KaoutarHammaoui/KaoutarHammaoui/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
