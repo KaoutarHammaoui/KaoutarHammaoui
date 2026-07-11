@@ -1,39 +1,83 @@
+<div align="center">
+
 # Hi, I'm Kaoutar 👋
 
-![](https://komarev.com/ghpvc/?username=KaoutarHammaoui&label=Visitors&color=blueviolet&style=for-the-badge)
+### Full-Stack Developer from Morocco 🇲🇦
 
-![GitHub followers](https://img.shields.io/github/followers/KaoutarHammaoui?style=for-the-badge)
+Passionate about building scalable web applications, backend systems, and interactive user experiences.
 
-💻 Full Stack Developer
+![](https://komarev.com/ghpvc/?username=KaoutarHammaoui&label=Visitors&color=0e75b6&style=for-the-badge)
+![](https://img.shields.io/github/followers/KaoutarHammaoui?style=for-the-badge&color=blue)
+![](https://img.shields.io/github/stars/KaoutarHammaoui?style=for-the-badge&color=yellow)
 
-🌱 Currently learning
-- Go
-- Distributed Systems
+</div>
+
+---
+
+## 🚀 About Me
+
+- 💻 Full-Stack Developer
+- 🌱 Currently learning **Go**, **Distributed Systems**, and **Backend Development**
+- 🤖 Interested in **Artificial Intelligence**, **System Design**, and **Cloud Technologies**
+- 🎯 Building projects that solve real-world problems while continuously improving my software engineering skills
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=go,js,react,html,css,tailwind,bootstrap,nodejs,git,github,docker,mysql,sqlite,linux,vscode" />
+
+</div>
+
+---
+
+## 🏆 Featured Projects
+
+| Project | Description | Tech |
+|----------|-------------|------|
+| 🎮 **PacMan** | Browser-based Pac-Man game with smooth gameplay and custom game logic | JavaScript • HTML • CSS |
+| 💬 **Forum** | Complete web forum with authentication, SQLite database, sessions, and comments | Go • SQLite |
+| 🌐 **Net-Cat** | Multi-client TCP chat application inspired by NetCat | Go • TCP |
+| 🐜 **Lem-in** | Pathfinding and graph traversal algorithm project | Go |
+| 🚗 **Auto-48** | Responsive landing page with a modern UI | React • JavaScript |
+
+---
+
+## 📚 Currently Exploring
+
 - Backend Development
-
-⚡ Interested in
-- Web Development
+- Distributed Systems
+- REST APIs
+- Docker
 - System Design
+---
 
-## Tech Stack
+## 📫 Connect With Me
 
-Go • JavaScript • React • HTML • CSS • SQL • Git • Docker
+<p align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaoutarHammaoui&layout=compact&theme=tokyonight)
+<a href="https://www.linkedin.com/in/kaoutar-hammaoui">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-## Featured Projects
+<a href="mailto:kaoutarhammaoui2@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-🎮 PacMan
-A browser-based Pac-Man game built with JavaScript.
+<a href="https://github.com/KaoutarHammaoui">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-💬 Forum
-A complete web forum written in Go.
+</p>
 
-🌐 Net-Cat
-A TCP chat application using Go.
+---
 
-📫 Connect with me
+<div align="center">
 
-LinkedIn: www.linkedin.com/in/kaoutar-hammaoui
+### ⭐ Thanks for visiting my profile!
 
-Email: kaoutarhammaoui2@gmail.com
+*"Writing code today so future-me can debug it tomorrow."* 😄
+
+</div>
